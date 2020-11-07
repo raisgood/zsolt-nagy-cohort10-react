@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zsolt-nagy-cohort10-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/zsolt-nagy-cohort10-react/static/js/main.9b89b661.chunk.js",
+    "main.js.map": "/zsolt-nagy-cohort10-react/static/js/main.9b89b661.chunk.js.map",
+    "runtime-main.js": "/zsolt-nagy-cohort10-react/static/js/runtime-main.7133ff16.js",
+    "runtime-main.js.map": "/zsolt-nagy-cohort10-react/static/js/runtime-main.7133ff16.js.map",
+    "static/js/2.8def7a03.chunk.js": "/zsolt-nagy-cohort10-react/static/js/2.8def7a03.chunk.js",
+    "static/js/2.8def7a03.chunk.js.map": "/zsolt-nagy-cohort10-react/static/js/2.8def7a03.chunk.js.map",
+    "static/js/3.ab86e942.chunk.js": "/zsolt-nagy-cohort10-react/static/js/3.ab86e942.chunk.js",
+    "static/js/3.ab86e942.chunk.js.map": "/zsolt-nagy-cohort10-react/static/js/3.ab86e942.chunk.js.map",
+    "index.html": "/zsolt-nagy-cohort10-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/zsolt-nagy-cohort10-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8def7a03.chunk.js.LICENSE.txt": "/zsolt-nagy-cohort10-react/static/js/2.8def7a03.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/zsolt-nagy-cohort10-react/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7133ff16.js",
+    "static/js/2.8def7a03.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9b89b661.chunk.js"
+  ]
+}
